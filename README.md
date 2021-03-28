@@ -9,7 +9,7 @@ c) Caso o acesso seja em dispositivos mobile, favor usar a orientação vertical
 
 Instruções para acesso:
 
-*********A SENHA É: 859632**********
+*********A SENHA É: 859632*********
 
 a)Acessar o link: http://tiny.cc/hlbvtz e clicar na setinha "play" para executar:
 
