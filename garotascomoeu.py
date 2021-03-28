@@ -30,7 +30,7 @@ while (leitura2 != senha):
         pass
     else:
         print("Senha incorreta. Tente novamente.")
-        raise SystemExit()
+        
       
 print()
 print("_________________________________________________")
